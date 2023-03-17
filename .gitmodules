@@ -1,0 +1,3 @@
+[submodule "capture-the-ether"]
+	path = capture-the-ether
+	url = https://github.com/ikcoin/capture-the-ether
