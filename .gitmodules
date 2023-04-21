@@ -4,3 +4,6 @@
 [submodule "ethernaut"]
 	path = ethernaut
 	url = git@github.com:ikcoin/ethernaut-challenge.git
+[submodule "damn-vulnerable-defi"]
+	path = damn-vulnerable-defi
+	url = git@github.com:ikcoin/damn-vulnerable-defi.git
