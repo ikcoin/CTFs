@@ -7,3 +7,6 @@
 [submodule "damn-vulnerable-defi"]
 	path = damn-vulnerable-defi
 	url = git@github.com:ikcoin/damn-vulnerable-defi.git
+[submodule "all-things-reentrancy"]
+	path = all-things-reentrancy
+	url = git@github.com:ikcoin/all-things-reentrancy.git
